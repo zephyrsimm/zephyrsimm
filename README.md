@@ -1,8 +1,10 @@
+<!---
 - 👋 Hi, I’m Zephyr
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning CS lol
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me plz don't rn
+--->
 
 I'll update this when I'm ready to use this platform
 
